@@ -16,6 +16,6 @@ def check_profanity(text):
     elif "false" in op:
         print('no errors')
     else:
-        print()
+        print("Some errors")
 reads()
     
